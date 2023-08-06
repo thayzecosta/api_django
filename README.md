@@ -27,8 +27,8 @@ Crie um projeto chamado setup utilizando o Django admin, para manter toda config
 
 Para finalizar a configuração do ambiente, na pasta setup, altere no arquivo settings.py o idioma e o horário que usaremos na aplicação, incluindo as seguintes linhas de código:
 
-LANGUAGE_CODE = 'pt-br'
-TIME_ZONE = 'America/Sao_Paulo'
+    LANGUAGE_CODE = 'pt-br'
+    TIME_ZONE = 'America/Sao_Paulo'
 
 Para iniciar a aplicação, no terminal integrado, escreva:
 

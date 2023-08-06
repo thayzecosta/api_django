@@ -158,3 +158,20 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+setup/usuario.txt
+venv_api_django/pyvenv.cfg
+venv_api_django/bin/pip3
+venv_api_django/bin/pip3.11
+.gitignore
+venv_api_django/bin/sqlformat
+venv_api_django/bin/python3.11
+venv_api_django/bin/python3
+venv_api_django/bin/python
+venv_api_django/bin/pip
+venv_api_django/bin/markdown_py
+venv_api_django/bin/django-admin
+venv_api_django/bin/Activate.ps1
+venv_api_django/bin/activate.fish
+venv_api_django/bin/activate.csh
+venv_api_django/bin/activate
+venv_api_django/lib64
